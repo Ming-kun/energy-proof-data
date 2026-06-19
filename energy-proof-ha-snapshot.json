@@ -1,0 +1,188 @@
+{
+  "ok": true,
+  "status": "ready",
+  "scannedAt": "2026-06-13T03:33:53.093Z",
+  "refreshMs": 900000,
+  "transport": "macmini-ha-collector",
+  "sourceStatus": {
+    "baseline": "ready",
+    "ha": "live",
+    "coolkit": "not_included"
+  },
+  "energyUsage": {
+    "source": "HA local collector snapshot, refreshed 2026-06-13T03:33:53.093Z",
+    "periods": {
+      "today": 7.955,
+      "week": null,
+      "month": 128.719,
+      "year": null
+    }
+  },
+  "devices": [
+    {
+      "protocol": "Wi-Fi",
+      "name": "Aqara P3 Plug",
+      "model": "Aqara P3 Plug / Xiaomi Miot",
+      "sortKwh": 128.719,
+      "sortMode": "month kWh",
+      "watts": 0.94,
+      "facts": [
+        [
+          "Power",
+          "0.94 W"
+        ],
+        [
+          "Today",
+          "7.955 kWh"
+        ],
+        [
+          "Month",
+          "128.719 kWh"
+        ]
+      ],
+      "externalSource": "aqara-p3"
+    },
+    {
+      "protocol": "Matter",
+      "name": "Computer desk S60TPF",
+      "model": "SONOFF S60TPF",
+      "sortKwh": 6.98,
+      "sortMode": "meter kWh",
+      "watts": 91.53,
+      "facts": [
+        [
+          "Total",
+          "6.98 kWh"
+        ],
+        [
+          "Power",
+          "91.53 W"
+        ],
+        [
+          "Current",
+          "0.54 A"
+        ]
+      ],
+      "externalSource": "desk-s60tpf"
+    },
+    {
+      "protocol": "Matter",
+      "name": "Electric kettle SONOFF WS01TPE Outlet",
+      "model": "SONOFF WS01TPE",
+      "sortKwh": 3.68,
+      "sortMode": "meter kWh",
+      "watts": 0,
+      "facts": [
+        [
+          "Total",
+          "3.68 kWh"
+        ],
+        [
+          "Power",
+          "0.00 W"
+        ],
+        [
+          "Voltage",
+          "236.54 V"
+        ]
+      ],
+      "externalSource": "kettle-ws01tpe"
+    },
+    {
+      "protocol": "Wi-Fi",
+      "name": "Shelly Plug S Gen3",
+      "model": "Shelly Plug S Gen3",
+      "sortKwh": 1.069669,
+      "sortMode": "meter kWh",
+      "watts": 2.3,
+      "facts": [
+        [
+          "Returned",
+          "0 kWh"
+        ],
+        [
+          "Power",
+          "2.3 W"
+        ],
+        [
+          "Total",
+          "1.07 kWh"
+        ]
+      ],
+      "externalSource": "shelly-plug-s-gen3"
+    },
+    {
+      "protocol": "Wi-Fi",
+      "name": "Kitchen Shelly Pro 3EM",
+      "model": "Shelly Pro 3EM",
+      "sortKwh": 14.24498,
+      "sortMode": "circuit kWh",
+      "watts": 156.635,
+      "facts": [
+        [
+          "Returned",
+          "0.043 kWh"
+        ],
+        [
+          "Power",
+          "156.6 W"
+        ],
+        [
+          "Total",
+          "14.245 kWh"
+        ]
+      ],
+      "externalSource": "kitchen-shelly-pro-3em"
+    },
+    {
+      "protocol": "Matter",
+      "name": "Bathroom hair dryer SONOFF WS01TPF",
+      "model": "SONOFF WS01TPF",
+      "sortKwh": 0.43,
+      "sortMode": "meter kWh",
+      "watts": 0,
+      "facts": [
+        [
+          "Total",
+          "0.43 kWh"
+        ],
+        [
+          "Power",
+          "0.00 W"
+        ],
+        [
+          "Voltage",
+          "235.74 V"
+        ]
+      ],
+      "externalSource": "bathroom-ws01tpf"
+    },
+    {
+      "protocol": "Wi-Fi",
+      "name": "IamMeter Incomer",
+      "model": "IAMMETER / local API",
+      "sortKwh": 99.48,
+      "sortMode": "import kWh",
+      "watts": 246,
+      "facts": [
+        [
+          "Current",
+          "1.52 A"
+        ],
+        [
+          "Voltage",
+          "235.4 V"
+        ],
+        [
+          "Export",
+          "2.83 kWh"
+        ],
+        [
+          "Power",
+          "246 W"
+        ]
+      ],
+      "externalSource": "iammeter-incomer"
+    }
+  ]
+}
