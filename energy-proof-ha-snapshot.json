@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-06-19T16:57:09.446Z",
+  "scannedAt": "2026-06-19T17:12:14.669Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,11 +10,11 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-06-19T16:57:09.446Z",
+    "source": "HA local collector snapshot, refreshed 2026-06-19T17:12:14.669Z",
     "periods": {
-      "today": 0.42,
+      "today": 0.569,
       "week": null,
-      "month": 189.372,
+      "month": 189.521,
       "year": null
     }
   },
@@ -23,21 +23,21 @@
       "protocol": "Wi-Fi",
       "name": "Aqara P3 Plug",
       "model": "Aqara P3 Plug / Xiaomi Miot",
-      "sortKwh": 189.372,
+      "sortKwh": 189.521,
       "sortMode": "month kWh",
-      "watts": 915.64,
+      "watts": 861.81,
       "facts": [
         [
           "Power",
-          "915.6 W"
+          "861.8 W"
         ],
         [
           "Today",
-          "0.42 kWh"
+          "0.569 kWh"
         ],
         [
           "Month",
-          "189.372 kWh"
+          "189.521 kWh"
         ]
       ],
       "externalSource": "aqara-p3"
@@ -46,13 +46,13 @@
       "protocol": "Matter",
       "name": "Computer desk S60TPF",
       "model": "SONOFF S60TPF",
-      "sortKwh": 6.98,
+      "sortKwh": 12.67,
       "sortMode": "meter kWh",
       "watts": 91.53,
       "facts": [
         [
           "Total",
-          "6.98 kWh"
+          "12.67 kWh"
         ],
         [
           "Power",
@@ -69,13 +69,13 @@
       "protocol": "Matter",
       "name": "Electric kettle SONOFF WS01TPE Outlet",
       "model": "SONOFF WS01TPE",
-      "sortKwh": 3.68,
+      "sortKwh": 7.72,
       "sortMode": "meter kWh",
       "watts": 0,
       "facts": [
         [
           "Total",
-          "3.68 kWh"
+          "7.72 kWh"
         ],
         [
           "Power",
@@ -92,9 +92,9 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 1.424048,
+      "sortKwh": 1.424682,
       "sortMode": "meter kWh",
-      "watts": 2.4,
+      "watts": 2.1,
       "facts": [
         [
           "Returned",
@@ -102,11 +102,11 @@
         ],
         [
           "Power",
-          "2.4 W"
+          "2.1 W"
         ],
         [
           "Total",
-          "1.424 kWh"
+          "1.425 kWh"
         ]
       ],
       "externalSource": "shelly-plug-s-gen3"
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 37.18134,
+      "sortKwh": 37.2017,
       "sortMode": "circuit kWh",
-      "watts": 77.148,
+      "watts": 78.124,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "77.15 W"
+          "78.12 W"
         ],
         [
           "Total",
-          "37.181 kWh"
+          "37.202 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -138,13 +138,13 @@
       "protocol": "Matter",
       "name": "Bathroom hair dryer SONOFF WS01TPF",
       "model": "SONOFF WS01TPF",
-      "sortKwh": 0.43,
+      "sortKwh": 0.74,
       "sortMode": "meter kWh",
       "watts": 0,
       "facts": [
         [
           "Total",
-          "0.43 kWh"
+          "0.74 kWh"
         ],
         [
           "Power",
@@ -161,17 +161,17 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 228.892,
+      "sortKwh": 229.188,
       "sortMode": "import kWh",
-      "watts": 1253,
+      "watts": 1147,
       "facts": [
         [
           "Current",
-          "5.41 A"
+          "4.97 A"
         ],
         [
           "Voltage",
-          "236.8 V"
+          "236.4 V"
         ],
         [
           "Export",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "1253 W"
+          "1147 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
