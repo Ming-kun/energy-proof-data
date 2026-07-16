@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-07-16T02:48:10.181Z",
+  "scannedAt": "2026-07-16T03:03:15.652Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-07-16T02:48:10.181Z",
+    "source": "HA local collector snapshot, refreshed 2026-07-16T03:03:15.652Z",
     "periods": {
       "today": 6.842,
       "week": null,
@@ -25,11 +25,11 @@
       "model": "Aqara P3 Plug / Xiaomi Miot",
       "sortKwh": 205.295,
       "sortMode": "month kWh",
-      "watts": 1.39,
+      "watts": 0.94,
       "facts": [
         [
           "Power",
-          "1.39 W"
+          "0.94 W"
         ],
         [
           "Today",
@@ -92,7 +92,7 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 2.922195,
+      "sortKwh": 2.922617,
       "sortMode": "meter kWh",
       "watts": 2.5,
       "facts": [
@@ -106,7 +106,7 @@
         ],
         [
           "Total",
-          "2.922 kWh"
+          "2.923 kWh"
         ]
       ],
       "externalSource": "shelly-plug-s-gen3"
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 115.02216,
+      "sortKwh": 115.0438,
       "sortMode": "circuit kWh",
-      "watts": 85.728,
+      "watts": 85.223,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "85.73 W"
+          "85.22 W"
         ],
         [
           "Total",
-          "115.022 kWh"
+          "115.044 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,7 +161,7 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 850.373,
+      "sortKwh": 850.438,
       "sortMode": "import kWh",
       "watts": 255,
       "facts": [
@@ -171,7 +171,7 @@
         ],
         [
           "Voltage",
-          "236.8 V"
+          "236.4 V"
         ],
         [
           "Export",
