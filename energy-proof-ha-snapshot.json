@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-07-28T05:45:40.108Z",
+  "scannedAt": "2026-07-28T06:00:45.447Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-07-28T05:45:40.108Z",
+    "source": "HA local collector snapshot, refreshed 2026-07-28T06:00:45.447Z",
     "periods": {
       "today": 6.877,
       "week": null,
@@ -92,9 +92,9 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 3.617446,
+      "sortKwh": 3.61808,
       "sortMode": "meter kWh",
-      "watts": 2,
+      "watts": 2.4,
       "facts": [
         [
           "Returned",
@@ -102,11 +102,11 @@
         ],
         [
           "Power",
-          "2 W"
+          "2.4 W"
         ],
         [
           "Total",
-          "3.617 kWh"
+          "3.618 kWh"
         ]
       ],
       "externalSource": "shelly-plug-s-gen3"
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 151.72772,
+      "sortKwh": 151.76737,
       "sortMode": "circuit kWh",
-      "watts": 163.768,
+      "watts": 163.448,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "163.8 W"
+          "163.4 W"
         ],
         [
           "Total",
-          "151.728 kWh"
+          "151.767 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,17 +161,17 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1142.526,
+      "sortKwh": 1142.588,
       "sortMode": "import kWh",
       "watts": 256,
       "facts": [
         [
           "Current",
-          "1.5 A"
+          "1.49 A"
         ],
         [
           "Voltage",
-          "239.4 V"
+          "240.1 V"
         ],
         [
           "Export",
