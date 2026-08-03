@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-03T03:58:37.088Z",
+  "scannedAt": "2026-08-03T04:13:42.959Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-03T03:58:37.088Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-03T04:13:42.959Z",
     "periods": {
       "today": 6.718,
       "week": null,
@@ -92,9 +92,9 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 3.941222,
+      "sortKwh": 3.941855,
       "sortMode": "meter kWh",
-      "watts": 2.2,
+      "watts": 2.1,
       "facts": [
         [
           "Returned",
@@ -102,11 +102,11 @@
         ],
         [
           "Power",
-          "2.2 W"
+          "2.1 W"
         ],
         [
           "Total",
-          "3.941 kWh"
+          "3.942 kWh"
         ]
       ],
       "externalSource": "shelly-plug-s-gen3"
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 170.57336,
+      "sortKwh": 170.59361,
       "sortMode": "circuit kWh",
-      "watts": 84.13,
+      "watts": 81.119,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "84.13 W"
+          "81.12 W"
         ],
         [
           "Total",
-          "170.573 kWh"
+          "170.594 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,17 +161,17 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1254.94,
+      "sortKwh": 1254.973,
       "sortMode": "import kWh",
-      "watts": 93,
+      "watts": 137,
       "facts": [
         [
           "Current",
-          "0.92 A"
+          "1.09 A"
         ],
         [
           "Voltage",
-          "238.9 V"
+          "237.1 V"
         ],
         [
           "Export",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "93 W"
+          "137 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
