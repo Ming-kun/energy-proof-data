@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-14T17:05:18.218Z",
+  "scannedAt": "2026-08-14T17:20:23.945Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-14T17:05:18.218Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-14T17:20:23.945Z",
     "periods": {
       "today": 0,
       "week": null,
@@ -25,11 +25,11 @@
       "model": "Aqara P3 Plug / Xiaomi Miot",
       "sortKwh": 162.132,
       "sortMode": "month kWh",
-      "watts": 1.39,
+      "watts": 0.94,
       "facts": [
         [
           "Power",
-          "1.39 W"
+          "0.94 W"
         ],
         [
           "Today",
@@ -92,7 +92,7 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 4.536639,
+      "sortKwh": 4.53685,
       "sortMode": "meter kWh",
       "watts": 1.3,
       "facts": [
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 207.45767,
+      "sortKwh": 207.48057,
       "sortMode": "circuit kWh",
-      "watts": 87.578,
+      "watts": 90.253,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "87.58 W"
+          "90.25 W"
         ],
         [
           "Total",
-          "207.458 kWh"
+          "207.481 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,7 +161,7 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1547.096,
+      "sortKwh": 1547.132,
       "sortMode": "import kWh",
       "watts": 142,
       "facts": [
@@ -171,7 +171,7 @@
         ],
         [
           "Voltage",
-          "232.4 V"
+          "233.3 V"
         ],
         [
           "Export",
