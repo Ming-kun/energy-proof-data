@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-14T14:34:20.125Z",
+  "scannedAt": "2026-08-14T14:49:25.590Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-14T14:34:20.125Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-14T14:49:25.590Z",
     "periods": {
       "today": 11.655,
       "week": null,
@@ -25,11 +25,11 @@
       "model": "Aqara P3 Plug / Xiaomi Miot",
       "sortKwh": 162.132,
       "sortMode": "month kWh",
-      "watts": 1.39,
+      "watts": 0.94,
       "facts": [
         [
           "Power",
-          "1.39 W"
+          "0.94 W"
         ],
         [
           "Today",
@@ -92,7 +92,7 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 4.533262,
+      "sortKwh": 4.533684,
       "sortMode": "meter kWh",
       "watts": 1.4,
       "facts": [
@@ -106,7 +106,7 @@
         ],
         [
           "Total",
-          "4.533 kWh"
+          "4.534 kWh"
         ]
       ],
       "externalSource": "shelly-plug-s-gen3"
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 207.22104,
+      "sortKwh": 207.24471,
       "sortMode": "circuit kWh",
-      "watts": 108.876,
+      "watts": 102.248,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "108.9 W"
+          "102.2 W"
         ],
         [
           "Total",
-          "207.221 kWh"
+          "207.245 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,13 +161,13 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1546.73,
+      "sortKwh": 1546.77,
       "sortMode": "import kWh",
-      "watts": 170,
+      "watts": 168,
       "facts": [
         [
           "Current",
-          "1.2 A"
+          "1.18 A"
         ],
         [
           "Voltage",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "170 W"
+          "168 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
