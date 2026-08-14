@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-14T17:20:23.945Z",
+  "scannedAt": "2026-08-14T17:35:30.230Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-14T17:20:23.945Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-14T17:35:30.230Z",
     "periods": {
       "today": 0,
       "week": null,
@@ -92,9 +92,9 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 4.53685,
+      "sortKwh": 4.537272,
       "sortMode": "meter kWh",
-      "watts": 1.3,
+      "watts": 1.4,
       "facts": [
         [
           "Returned",
@@ -102,7 +102,7 @@
         ],
         [
           "Power",
-          "1.3 W"
+          "1.4 W"
         ],
         [
           "Total",
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 207.48057,
+      "sortKwh": 207.50352,
       "sortMode": "circuit kWh",
-      "watts": 90.253,
+      "watts": 94.005,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "90.25 W"
+          "94 W"
         ],
         [
           "Total",
-          "207.481 kWh"
+          "207.504 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,13 +161,13 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1547.132,
+      "sortKwh": 1547.167,
       "sortMode": "import kWh",
-      "watts": 142,
+      "watts": 139,
       "facts": [
         [
           "Current",
-          "1.05 A"
+          "1.03 A"
         ],
         [
           "Voltage",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "142 W"
+          "139 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
