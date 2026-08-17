@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-17T12:45:32.867Z",
+  "scannedAt": "2026-08-17T13:00:38.347Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-17T12:45:32.867Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-17T13:00:38.347Z",
     "periods": {
       "today": 9.756,
       "week": null,
@@ -92,7 +92,7 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 4.625709,
+      "sortKwh": 4.626131,
       "sortMode": "meter kWh",
       "watts": 1.2,
       "facts": [
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 215.78152,
+      "sortKwh": 215.81386,
       "sortMode": "circuit kWh",
-      "watts": 129.231,
+      "watts": 128.205,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "129.2 W"
+          "128.2 W"
         ],
         [
           "Total",
-          "215.782 kWh"
+          "215.814 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,17 +161,17 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1631.368,
+      "sortKwh": 1631.461,
       "sortMode": "import kWh",
-      "watts": 340,
+      "watts": 387,
       "facts": [
         [
           "Current",
-          "2.01 A"
+          "2.19 A"
         ],
         [
           "Voltage",
-          "235.9 V"
+          "236.6 V"
         ],
         [
           "Export",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "340 W"
+          "387 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
