@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-21T11:08:01.689Z",
+  "scannedAt": "2026-08-21T11:23:07.595Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,7 +10,7 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-21T11:08:01.689Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-21T11:23:07.595Z",
     "periods": {
       "today": 8.682,
       "week": null,
@@ -92,9 +92,9 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 4.79435,
+      "sortKwh": 4.794984,
       "sortMode": "meter kWh",
-      "watts": 2.2,
+      "watts": 2.1,
       "facts": [
         [
           "Returned",
@@ -102,11 +102,11 @@
         ],
         [
           "Power",
-          "2.2 W"
+          "2.1 W"
         ],
         [
           "Total",
-          "4.794 kWh"
+          "4.795 kWh"
         ]
       ],
       "externalSource": "shelly-plug-s-gen3"
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 228.67612,
+      "sortKwh": 228.7578,
       "sortMode": "circuit kWh",
-      "watts": 188.665,
+      "watts": 354.469,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "188.7 W"
+          "354.5 W"
         ],
         [
           "Total",
-          "228.676 kWh"
+          "228.758 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -138,13 +138,13 @@
       "protocol": "Matter",
       "name": "Bathroom hair dryer SONOFF WS01TPF",
       "model": "SONOFF WS01TPF",
-      "sortKwh": 0.36,
+      "sortKwh": 0.33,
       "sortMode": "meter kWh",
       "watts": 0,
       "facts": [
         [
           "Total",
-          "0.36 kWh"
+          "0.33 kWh"
         ],
         [
           "Power",
@@ -161,17 +161,17 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IAMMETER / local API",
-      "sortKwh": 1723.445,
+      "sortKwh": 1723.611,
       "sortMode": "import kWh",
-      "watts": 420,
+      "watts": 604,
       "facts": [
         [
           "Current",
-          "2.4 A"
+          "3.16 A"
         ],
         [
           "Voltage",
-          "237.3 V"
+          "236.9 V"
         ],
         [
           "Export",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "420 W"
+          "604 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
