@@ -1,7 +1,7 @@
 {
   "ok": true,
   "status": "ready",
-  "scannedAt": "2026-08-23T12:28:40.004Z",
+  "scannedAt": "2026-08-23T12:43:45.196Z",
   "refreshMs": 900000,
   "transport": "macmini-ha-collector",
   "sourceStatus": {
@@ -10,11 +10,11 @@
     "coolkit": "not_included"
   },
   "energyUsage": {
-    "source": "HA local collector snapshot, refreshed 2026-08-23T12:28:40.004Z",
+    "source": "HA local collector snapshot, refreshed 2026-08-23T12:43:45.196Z",
     "periods": {
-      "today": 8.587,
+      "today": 8.908,
       "week": null,
-      "month": 265.308,
+      "month": 265.629,
       "year": null
     }
   },
@@ -23,21 +23,21 @@
       "protocol": "Wi-Fi",
       "name": "Aqara P3 Plug",
       "model": "Aqara P3 Plug / Xiaomi Miot",
-      "sortKwh": 265.308,
+      "sortKwh": 265.629,
       "sortMode": "month kWh",
-      "watts": 973.96,
+      "watts": 960.5,
       "facts": [
         [
           "Power",
-          "974 W"
+          "960.5 W"
         ],
         [
           "Today",
-          "8.587 kWh"
+          "8.908 kWh"
         ],
         [
           "Month",
-          "265.308 kWh"
+          "265.629 kWh"
         ]
       ],
       "externalSource": "aqara-p3"
@@ -92,9 +92,9 @@
       "protocol": "Wi-Fi",
       "name": "Shelly Plug S Gen3",
       "model": "Shelly Plug S Gen3",
-      "sortKwh": 4.904517,
+      "sortKwh": 4.90515,
       "sortMode": "meter kWh",
-      "watts": 3,
+      "watts": 2.1,
       "facts": [
         [
           "Returned",
@@ -102,7 +102,7 @@
         ],
         [
           "Power",
-          "3 W"
+          "2.1 W"
         ],
         [
           "Total",
@@ -115,9 +115,9 @@
       "protocol": "Wi-Fi",
       "name": "Kitchen Shelly Pro 3EM",
       "model": "Shelly Pro 3EM",
-      "sortKwh": 235.69998,
+      "sortKwh": 235.74427,
       "sortMode": "circuit kWh",
-      "watts": 127.801,
+      "watts": 114.831,
       "facts": [
         [
           "Returned",
@@ -125,11 +125,11 @@
         ],
         [
           "Power",
-          "127.8 W"
+          "114.8 W"
         ],
         [
           "Total",
-          "235.7 kWh"
+          "235.744 kWh"
         ]
       ],
       "externalSource": "kitchen-shelly-pro-3em"
@@ -161,17 +161,17 @@
       "protocol": "Wi-Fi",
       "name": "IamMeter Incomer",
       "model": "IamMeter / Local API",
-      "sortKwh": 1783.157,
+      "sortKwh": 1783.511,
       "sortMode": "import kWh",
-      "watts": 1318,
+      "watts": 1348,
       "facts": [
         [
           "Current",
-          "5.77 A"
+          "5.87 A"
         ],
         [
           "Voltage",
-          "235.8 V"
+          "235.9 V"
         ],
         [
           "Export",
@@ -179,7 +179,7 @@
         ],
         [
           "Power",
-          "1318 W"
+          "1348 W"
         ]
       ],
       "externalSource": "iammeter-incomer"
